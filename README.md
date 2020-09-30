@@ -17,7 +17,7 @@ Simple Cordova application which tests JavaScript getUserMedia access from insid
 - cd getUserMedia
 - ionic cordova plugin add cordova-plugin-android-permissions
 - npm install --save @ionic-native/android-permissions
-- npm install webrtc-adatper --save
+- npm install webrtc-adapter --save
 - link to adapter in angular.json scripts (link)
 - Add AndroidPermissions to app.module.ts provider (link)
 - Create camera access code in home.component.ts (link)
